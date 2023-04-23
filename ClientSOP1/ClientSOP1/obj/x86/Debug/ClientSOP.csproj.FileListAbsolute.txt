@@ -1,0 +1,8 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\ClientSOP\bin\Debug\ClientSOP.exe.config
+C:\Users\Dell\AppData\Local\Temporary Projects\ClientSOP\bin\Debug\ClientSOP.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\ClientSOP\bin\Debug\ClientSOP.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\ClientSOP\obj\x86\Debug\ClientSOP.Form1.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\ClientSOP\obj\x86\Debug\ClientSOP.Properties.Resources.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\ClientSOP\obj\x86\Debug\ClientSOP.csproj.GenerateResource.Cache
+C:\Users\Dell\AppData\Local\Temporary Projects\ClientSOP\obj\x86\Debug\ClientSOP.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\ClientSOP\obj\x86\Debug\ClientSOP.pdb

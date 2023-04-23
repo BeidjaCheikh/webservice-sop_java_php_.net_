@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://ws/" targetNamespace="http://ws/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="compte" type="tns:compte" />
+  <xs:element name="compteList" type="tns:compteList" />
+  <xs:element name="compteListResponse" type="tns:compteListResponse" />
+  <xs:element name="conversation" type="tns:conversation" />
+  <xs:element name="conversationResponse" type="tns:conversationResponse" />
+  <xs:element name="getCompte" type="tns:getCompte" />
+  <xs:element name="getCompteResponse" type="tns:getCompteResponse" />
+  <xs:complexType name="compteList">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="compteListResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:compte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="compte">
+    <xs:sequence>
+      <xs:element name="code" type="xs:int" />
+      <xs:element name="solde" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="conversation">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="conversationResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getCompte">
+    <xs:sequence>
+      <xs:element name="arg0" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getCompteResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:compte" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

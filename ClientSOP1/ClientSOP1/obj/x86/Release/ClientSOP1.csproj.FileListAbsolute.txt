@@ -1,0 +1,8 @@
+C:\Users\Dell\documents\visual studio 2010\Projects\ClientSOP1\ClientSOP1\bin\Release\ClientSOP1.exe.config
+C:\Users\Dell\documents\visual studio 2010\Projects\ClientSOP1\ClientSOP1\bin\Release\ClientSOP1.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\ClientSOP1\ClientSOP1\bin\Release\ClientSOP1.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\ClientSOP1\ClientSOP1\obj\x86\Release\ClientSOP.Form1.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\ClientSOP1\ClientSOP1\obj\x86\Release\ClientSOP.Properties.Resources.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\ClientSOP1\ClientSOP1\obj\x86\Release\ClientSOP1.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2010\Projects\ClientSOP1\ClientSOP1\obj\x86\Release\ClientSOP1.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\ClientSOP1\ClientSOP1\obj\x86\Release\ClientSOP1.pdb
